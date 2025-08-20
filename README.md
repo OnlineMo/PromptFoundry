@@ -82,6 +82,8 @@ PromptFoundry 是一个专注于 **收集、打磨、组织和分享高质量 Pr
 | Contributing | 贡献指南与参与方式 | [参与贡献](#-contributing) |
 | License | 开源许可证信息 | [许可证](#-license) |
 | DeepCodeMap | 深度代码地图生成器提示词，用于自动分析生成工程文档 | [深度代码地图生成器](Code/DeepCodeMap.txt) |
+| Universal DeepLink Reasoning | 泛用型深链推理提示词 | [Universal DeepLink Reasoning](Universal/DeepLinkReasoning.txt) |
+
 
 ---
 
