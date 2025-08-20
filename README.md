@@ -68,7 +68,38 @@ PromptFoundry 是一个专注于 **收集、打磨、组织和分享高质量 Pr
 - Fork 本项目  
 - 新建分支提交修改  
 - 创建 Pull Request  
-- 记得为你的 Prompt 添加简单说明和使用示例  
+- 记得为你的 Prompt 添加简单说明和使用示例
+
+---
+
+### Share your prompts
+
+想把你的工作流里那些好用到离谱的提示词分享给更多人吗？我们超欢迎！一次小小的 PR，可能就会成为别人解决问题的那把钥匙。
+
+#### Quick start
+
+- **Fork:** Fork 本仓库并新建分支（如 feature/add-xxx-prompt）。
+- **Add:** 在合适的分类下新增你的文件（建议命名清晰、使用 .md）。  
+  例如：prompts/Translate/zh-en.md
+- **Describe:** 在文件开头写一段简短说明（用途、适用场景、示例）。  
+  可以参考模板：CONTRIBUTING_PROMPTS.md 或 prompts/_TEMPLATE.md
+- **PR:** 发起 Pull Request，并在描述中补充亮点与使用要点。
+
+#### Quality checklist
+
+- **清晰性:** 标明目标、输入要求与输出格式，避免含糊词。  
+- **可复用:** 提供示例输入/输出，注明可调参数与边界条件。  
+- **上下文:** 说明适用场景、前置条件与不适用的情况。  
+- **安全性:** 避免侵犯隐私、版权和潜在风险的引导。  
+- **授权:** 确保内容为原创或已获授权，遵循仓库许可证。
+
+#### Helpful links
+
+- **贡献指南:** 查看详细提交流程与规范 → CONTRIBUTING_PROMPTS.md  
+- **提交模板:** 直接套用结构化模板 → prompts/_TEMPLATE.md
+
+> 你的一个好 Prompt，可能就是别人的灵感火花。欢迎现在就提一个 PR！
+
 ---
 
 ## 📚 Table of Contents
