@@ -1,4 +1,3 @@
-```markdown
 # 🚀 PromptFoundry
 
 [![License](https://img.shields.io/github/license/OnlineMo/PromptFoundry)](LICENSE)
