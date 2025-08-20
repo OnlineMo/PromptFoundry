@@ -35,7 +35,6 @@ PromptFoundry 是一个专注于 **收集、打磨、组织和分享高质量 Pr
 
 ---
 
-```markdown
 ## 📂 Structure
 
 ```plaintext
