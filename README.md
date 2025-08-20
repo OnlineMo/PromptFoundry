@@ -72,7 +72,6 @@ PromptFoundry 是一个专注于 **收集、打磨、组织和分享高质量 Pr
 ---
 
 ## 📚 Table of Contents
-
 | 📌 模块 | 📄 描述 | 🔗 跳转链接 |
 |--------|--------|-------------|
 | About | 项目简介与背景信息 | [项目简介](#-about) |
@@ -83,7 +82,8 @@ PromptFoundry 是一个专注于 **收集、打磨、组织和分享高质量 Pr
 | License | 开源许可证信息 | [许可证](#-license) |
 | DeepCodeMap | 深度代码地图生成器提示词，用于自动分析生成工程文档 | [深度代码地图生成器](Code/DeepCodeMap.txt) |
 | Universal DeepLink Reasoning | 泛用型深链推理提示词 | [Universal DeepLink Reasoning](Universal/DeepLinkReasoning.txt) |
-
+| Immersive Translate | 沉浸式翻译自定义 AI 专家导入与使用指南 | [Immersive Translate](Translate/immersive-translate/Immersive-translate.md) |
+| LexiBloom | 潜意识学习大师（LexiBloom）提示词配置文件 | [LexiBloom](Translate/immersive-translate/LexiBloom.yaml) |
 
 ---
 
