@@ -61,14 +61,6 @@ PromptFoundry 是一个专注于 **收集、打磨、组织和分享高质量 Pr
 2. 打开对应的 Markdown 文件，复制所需的 Prompt  
 3. 将 Prompt 粘贴到你的 AI 工具中（如 ChatGPT、Copilot、Claude 等）  
 4. 按需求调整上下文、语言和细节，让它更适合你的场景  
-```
-
-
-
-
-
-
-
 
 ---
 
