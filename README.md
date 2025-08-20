@@ -39,11 +39,11 @@ PromptFoundry 是一个专注于 **收集、打磨、组织和分享高质量 Pr
 
 ```plaintext
 /prompts
-   ├── code/                  # 💻 与编程相关的提示词（代码生成、调试、优化等）
+   ├── Code/                  # 💻 与编程相关的提示词（代码生成、调试、优化等）
    │    ├── python.md
    │    ├── javascript.md
    │    └── ...
-   ├── translate/             # 🌐 翻译类提示词（多语种互译、润色、语言风格调整等）
+   ├── Translate/             # 🌐 翻译类提示词（多语种互译、润色、语言风格调整等）
    │    ├── en-zh.md
    │    ├── zh-en.md
    │    └── ...
@@ -69,6 +69,19 @@ PromptFoundry 是一个专注于 **收集、打磨、组织和分享高质量 Pr
 - 新建分支提交修改  
 - 创建 Pull Request  
 - 记得为你的 Prompt 添加简单说明和使用示例  
+---
+
+## 📚 Table of Contents
+
+| 📌 模块 | 📄 描述 | 🔗 跳转链接 |
+|--------|--------|-------------|
+| About | 项目简介与背景信息 | [项目简介](#-about) |
+| Features | 项目主要功能与亮点 | [功能亮点](#-features) |
+| Structure | 仓库目录结构与分类说明 | [项目结构](#-structure) |
+| Usage | 如何使用本项目的提示词 | [使用方法](#-usage) |
+| Contributing | 贡献指南与参与方式 | [参与贡献](#-contributing) |
+| License | 开源许可证信息 | [许可证](#-license) |
+| DeepCodeMap | 深度代码地图生成器提示词，用于自动分析生成工程文档 | [深度代码地图生成器](Code/DeepCodeMap.txt) |
 
 ---
 
